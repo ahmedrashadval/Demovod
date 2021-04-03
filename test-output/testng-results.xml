@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="7" passed="7">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="25970" started-at="2021-04-03T18:41:04Z" finished-at="2021-04-03T18:41:30Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="25970" started-at="2021-04-03T18:41:04Z" finished-at="2021-04-03T18:41:30Z">
+      <class name="Selenium.Demovod.Homepagestart">
+        <test-method status="PASS" signature="startdriver()[pri:0, instance:Selenium.Demovod.Homepagestart@61386958]" name="startdriver" is-config="true" duration-ms="7195" started-at="2021-04-03T20:40:57Z" finished-at="2021-04-03T20:41:04Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startdriver -->
+        <test-method status="PASS" signature="gotologinoage()[pri:0, instance:Selenium.Demovod.Homepagestart@61386958]" name="gotologinoage" duration-ms="4567" started-at="2021-04-03T20:41:04Z" finished-at="2021-04-03T20:41:09Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- gotologinoage -->
+        <test-method status="PASS" signature="emptytweet()[pri:1, instance:Selenium.Demovod.Homepagestart@61386958]" name="emptytweet" duration-ms="2867" started-at="2021-04-03T20:41:09Z" finished-at="2021-04-03T20:41:12Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- emptytweet -->
+        <test-method status="PASS" signature="tweets()[pri:2, instance:Selenium.Demovod.Homepagestart@61386958]" name="tweets" duration-ms="3742" started-at="2021-04-03T20:41:12Z" finished-at="2021-04-03T20:41:16Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tweets -->
+        <test-method status="PASS" signature="tweet2()[pri:3, instance:Selenium.Demovod.Homepagestart@61386958]" name="tweet2" duration-ms="3729" started-at="2021-04-03T20:41:16Z" finished-at="2021-04-03T20:41:19Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tweet2 -->
+        <test-method status="PASS" signature="tweets5()[pri:4, instance:Selenium.Demovod.Homepagestart@61386958]" name="tweets5" duration-ms="1614" started-at="2021-04-03T20:41:19Z" finished-at="2021-04-03T20:41:21Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tweets5 -->
+        <test-method status="PASS" signature="tweets4()[pri:5, instance:Selenium.Demovod.Homepagestart@61386958]" name="tweets4" duration-ms="4323" started-at="2021-04-03T20:41:21Z" finished-at="2021-04-03T20:41:25Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tweets4 -->
+        <test-method status="PASS" signature="tweet3()[pri:6, instance:Selenium.Demovod.Homepagestart@61386958]" name="tweet3" duration-ms="4926" started-at="2021-04-03T20:41:25Z" finished-at="2021-04-03T20:41:30Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tweet3 -->
+        <test-method status="PASS" signature="stopdriver()[pri:0, instance:Selenium.Demovod.Homepagestart@61386958]" name="stopdriver" is-config="true" duration-ms="939" started-at="2021-04-03T20:41:30Z" finished-at="2021-04-03T20:41:31Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- stopdriver -->
+      </class> <!-- Selenium.Demovod.Homepagestart -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
